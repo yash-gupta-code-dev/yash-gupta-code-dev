@@ -78,22 +78,6 @@ for today’s web.
 - Web + REST API interface
 - Clean RESTful architecture
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-gupta-code-dev&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-gupta-code-dev&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: YOUR_EMAIL
-
----
 
 ⭐ *If you find my work useful, consider giving a star to my repositories!*
